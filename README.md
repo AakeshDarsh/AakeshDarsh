@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AakeshDarsh
 - 👀 I’m interested in c++, python
-- 💞️ I’m looking to contributing to pranaOS
+- 💞️ I’m currently contributing to pranaOS
 
 <!---
 AakeshDarsh/AakeshDarsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
